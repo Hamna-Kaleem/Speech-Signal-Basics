@@ -7,8 +7,6 @@ This repository covers key concepts in speech signal representation, including w
 - [Waveforms](#waveforms)
 - [Sampling](#sampling)
 - [Quantization](#quantization)
-- [Notebooks](#notebooks)
-- [Python Scripts](#python-scripts)
 
 ## Installation
 
